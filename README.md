@@ -5,5 +5,5 @@ Disclaimer:
 This extension uses the font "tommy’s first alphabet" by [Divide By Zero] http://fonts.tom7.com/
 
 <img src="screencapture.PNG"></img>
-<a src="https://twitter.com/shiffman"> daniel shiffman</a>
+[daniel shiffman](https://twitter.com/shiffman)
 
