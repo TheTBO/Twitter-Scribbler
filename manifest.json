@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "Twitter Scribbler",
+"icons": { "128": "data/crayon.png" },
+"version": "0.1",
+
+"web_accessible_resources": [
+	"data/tommys.woff"
+	],
+"browser_action":{
+"default_icon":"data/crayon.png",
+"default_title":"Twitter Scribbler"
+},
+
+"content_scripts": [
+  {
+  "matches":["https://twitter.com/*"],
+  "js":["content.js"]
+  }
+]
+}
