@@ -4,4 +4,4 @@ is a chrome extension that change the font of tweets to a font similar to a chil
 Disclaimer:
 This extension uses the font "tommy’s first alphabet" by [Divide By Zero] http://fonts.tom7.com/
 
-![alt text](https://github.com/taba1950/Twitter-Scribbler/blob/master/screancapture.PNG)
+<img src="screencapture.PNG"></img>
